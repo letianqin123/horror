@@ -1,0 +1,168 @@
+[
+  {
+    "imdbId": "tt10954984",
+    "title": "Nope",
+    "releaseDate": "2022-07-22",
+    "trailerLink": "https://www.youtube.com/watch?v=In8fuzj3gck",
+    "genres": [
+      "Horror",
+      "Science Fiction",
+      "Mystery"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/5N8LOeRzt7LcZIhPbNVaCsVOPdT.jpg"
+    ],
+    "reviewIds": []
+  },
+  {
+    "imdbId": "tt6644200",
+    "title": "A Quiet Place",
+    "releaseDate": "2018-04-06",
+    "trailerLink": "https://www.youtube.com/watch?v=WR7cc5t7tv8",
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/roYyPiQDQKmIKUEhO912693tSja.jpg"
+    ],
+    "reviewIds": []
+  },
+  {
+    "imdbId": "tt8760708",
+    "title": "M3GAN",
+    "releaseDate": "2023-01-06",
+    "trailerLink": "https://www.youtube.com/watch?v=BRb4U99OU80",
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Comedy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/xBl5AGw7HXZcv1nNXPlzGgO4Cfo.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/5kAGbi9MFAobQTVfK4kWPnIfnP0.jpg",
+      "https://image.tmdb.org/t/p/original/dlxzUj7z1MqEcFiwvvrj0bvBKDY.jpg",
+      "https://image.tmdb.org/t/p/original/q2fY4kMXKoGv4CQf310MCxpXlRI.jpg",
+      "https://image.tmdb.org/t/p/original/pTxwFdsdDWzpCRYuk1QbggdaOlL.jpg",
+      "https://image.tmdb.org/t/p/original/1zuz2RgFoOjulkjjNHHFc3WiHGB.jpg",
+      "https://image.tmdb.org/t/p/original/7HqxI1IXMloT9VTSuDC8ikaj810.jpg",
+      "https://image.tmdb.org/t/p/original/vpK2rp3J5LiC01HoNM0j9DEHQ1T.jpg",
+      "https://image.tmdb.org/t/p/original/cNHXdmr4amP6EPCMa0dqD8rwzDV.jpg",
+      "https://image.tmdb.org/t/p/original/txQLFd6rfQrskQhFENkS1jElptt.jpg",
+      "https://image.tmdb.org/t/p/original/dC4tj1ONdlZ2TWv4XD2SA1KUnJN.jpg"
+    ],
+    "reviewIds": []
+  },
+  {
+    "imdbId": "tt1396484",
+    "title": "It",
+    "releaseDate": "2017-09-08",
+    "trailerLink": "https://www.youtube.com/watch?v=FnCdOQsX5kc",
+    "genres": [
+      "Horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/tcheoA2nPATCm2vvXw2hVQoaEFD.jpg"
+    ],
+    "reviewIds": []
+  },
+  {
+    "imdbId": "tt5052448",
+    "title": "Get Out",
+    "releaseDate": "2017-01-23",
+    "trailerLink": "https://www.youtube.com/watch?v=sRfnevzM9kQ",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/mE24wUCfjK8AoBBjaMjho7Rczr7.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/bBQHALHRAaaORlPNXv7fNcRXYdx.jpg"
+    ],
+    "reviewIds": []
+  },
+  {
+    "imdbId": "tt17663992",
+    "title": "Scream VI",
+    "releaseDate": "2023-03-10",
+    "trailerLink": "https://www.youtube.com/watch?v=h74AXqw4Opc",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/xRasrVcMrkCK2gcIJRERDBmjQHo.jpg"
+    ],
+    "reviewIds": []
+  },
+  {
+    "imdbId": "tt8772262",
+    "title": "Midsommar",
+    "releaseDate": "2019-07-03",
+    "trailerLink": "https://www.youtube.com/watch?v=1Vnghdsjmd0",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/8yE6wv1l570zWyh6zmkFxysw3Kc.jpg"
+    ],
+    "reviewIds": []
+  },
+  {
+    "imdbId": "tt0195714",
+    "title": "Final Destination",
+    "releaseDate": "2000-03-17",
+    "trailerLink": "https://www.youtube.com/watch?v=bIf5pgKcu9s",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/7isarjYDEKZ5t1CgcvbuqEUby8P.jpg"
+    ],
+    "reviewIds": []
+  },
+  {
+    "imdbId": "tt0387564",
+    "title": "Saw",
+    "releaseDate": "2004-10-29",
+    "trailerLink": "https://www.youtube.com/watch?v=HKPy5RWuqNA",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/h2x0kRZWvwpw8GvghmQUn1m1jQo.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/l6HHHyRz7YQ52TMhSVue7x9EvAc.jpg"
+    ],
+    "reviewIds": []
+  },
+  {
+    "imdbId": "tt9764362",
+    "title": "The Menu",
+    "releaseDate": "2022-10-18",
+    "trailerLink": "https://www.youtube.com/watch?v=CAWZMssP3gM",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
+    "backdrops": [
+      "https://image.tmdb.org/t/p/original/4vSBj7BYsyuKCx96EJzGyp20WfY.jpg"
+    ],
+    "reviewIds": []
+  }
+]
